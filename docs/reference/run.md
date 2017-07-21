@@ -71,7 +71,7 @@ following options.
  - [IPC settings (--ipc)](#ipc-settings---ipc)
  - [Network settings](#network-settings)
  - [Restart policies (--restart)](#restart-policies---restart)
- - [Clean up (--rm)](#clean-up---rm)
+ - [Clean up (--rm)](#clean-up-rm)
  - [Runtime constraints on resources](#runtime-constraints-on-resources)
  - [Runtime privilege and Linux capabilities](#runtime-privilege-and-linux-capabilities)
 
